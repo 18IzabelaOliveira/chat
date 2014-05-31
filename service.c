@@ -1,5 +1,5 @@
 /*IZABELA*/
-//gcc -o servidor servidor.c $(pkg-config --cflags --libs gtk+-2.0) -lpthread
+//gcc -o service service.c $(pkg-config --cflags --libs gtk+-2.0) -lpthread
 
 
 
