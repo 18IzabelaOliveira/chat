@@ -1,5 +1,5 @@
 /*IZABELA*/
-// gcc -o cliente cliente.c $(pkg-config --cflags --libs gtk+-2.0) -lpthread
+// gcc -o client client.c $(pkg-config --cflags --libs gtk+-2.0) -lpthread
 #include <gtk/gtk.h>
 #include <string.h>	
 /*parte udp*/
